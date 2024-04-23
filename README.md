@@ -5,8 +5,6 @@ O sistema faz contato direto com o computador local, podendo reproduzir o video 
 atividades do Parque Gasper
 Nele contem abas de informações como preços e seguranças das atividades.
 
-https://eduardobackesdev.github.io/Gasper--codigo--main/
-
 (Projeto desenvolvido para um tipo de monitor especifico, sem garantia que funcione a responsividade em outros dispositivos)
 # totem
 # totem
